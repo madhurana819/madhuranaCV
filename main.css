@@ -1,0 +1,130 @@
+body
+{
+	background-image: url('phoyo.JPG');   /*background image code*/
+	background-size: cover;
+	background-repeat: no-repeat;           /*background layout*/ 
+    background-position: right top;     
+    background-attachment: fixed;
+	max-width: 100%;
+}
+
+.nav-bar ul{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;         /*navbar code*/
+	background-color: black;
+	border: 1px solid;
+
+
+    
+}
+.nav-bar ul li{
+	
+	text-align: center;
+	list-style: none;
+	width:95px;
+}
+.nav-bar ul li a
+{
+	text-decoration: none;
+	color: white;
+	display: block;
+	padding: 6px 10px;
+	text-decoration: none;
+}
+footer{
+	color: white;
+	font-size: 10px;                       /*footer code for layout and design*/
+	margin-left: 80%;
+	margin-top: 10%;
+	display: flex;
+}
+.homepage p{
+	color: white;
+	text-decoration:bold;                        /*homepage  code*/
+	font-size: 30px;
+	display: flex;
+	margin-top: 250px;
+	margin-left: 250px;
+
+
+}
+.image p{
+	color: white;
+	display: flex;
+}
+.social{
+	display: flex;
+margin-top: 2%;
+margin-left: 20%;                                    /*social page code*/
+	padding: 10%;
+}
+.CV h1 {
+	color: white;
+	display: flex;                                  /*cvpage code*/
+}
+.CV  p{
+	color: white;
+	font-size: 20px;
+}
+.CVimage img{
+	width: 15%;                              /*cvpage code*/
+	height: 30%;
+	margin-right: : 70%;
+}
+.con{
+	display: flex;
+}
+.contact h1{
+	color: white;                  /*contactpage code*/
+display: flex;
+}
+.contact p{
+  color: white;
+  display: flex;
+
+}
+.map iframe{
+
+	margin-left: 700px;
+	
+
+}
+.about img{
+	width: 30%;
+	height: 50%;
+}
+.Report li{
+	color: white;
+	font-size: 20px;
+}
+.Report h1{
+ color:white;
+}
+.Report1 {
+	color: white;
+}
+.Report2{
+	color: white;
+}
+.Report3{
+	color: white;
+}
+.Report4{
+	color: white;
+}
+.Report5{
+	color: white;
+}
+.Report6{
+	color: white;
+}
+.Report7{
+	color: white;
+}
+.Social img{
+/*display: flex;*/
+padding: 20%;
+margin:20%;
+}
+
